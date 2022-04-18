@@ -1,0 +1,21 @@
+{"level":"info","message":"this is information log","service":"user-service"}
+{"level":"warn","message":"this is warning","service":"user-service"}
+{"level":"error","message":"this is error","service":"user-service"}
+{"level":"info","message":"/authors","service":"user-service"}
+{"level":"warn","message":"this is warning","service":"user-service"}
+{"level":"error","message":"this is error","service":"user-service"}
+{"level":"info","message":"/books","service":"user-service"}
+{"level":"warn","message":"this is warning","service":"user-service"}
+{"level":"error","message":"this is error","service":"user-service"}
+{"level":"info","message":"/libraries","service":"user-service"}
+{"level":"warn","message":"this is warning","service":"user-service"}
+{"level":"error","message":"this is error","service":"user-service"}
+{"level":"info","message":"/libraries","service":"user-service"}
+{"level":"warn","message":"this is warning","service":"user-service"}
+{"level":"error","message":"this is error","service":"user-service"}
+{"level":"info","message":"/books","service":"user-service"}
+{"level":"warn","message":"this is warning","service":"user-service"}
+{"level":"error","message":"this is error","service":"user-service"}
+{"level":"info","message":"/authors","service":"user-service"}
+{"level":"warn","message":"this is warning","service":"user-service"}
+{"level":"error","message":"this is error","service":"user-service"}
